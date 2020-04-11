@@ -1,13 +1,15 @@
 body {
   margin: 0;
   min-width: 960px;
+
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/pro-light-bg.jpg");
   background-repeat: no-repeat;
+  background-size: 1600px 900px;
   background-position: top center;
 }
 
@@ -16,10 +18,22 @@ body {
   margin: 0 auto;
   padding: 0 16px;
 }
+.container-1{
+font-size: 22px;
+
+
+}
+.skills{
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
 
 .page-header {
+
   margin: 0 0 160px;
   padding: 32px 0 32px;
+
 }
 
 .page-header .container,
@@ -34,6 +48,7 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+
 }
 
 .header-email {
@@ -48,11 +63,14 @@ body {
 
 .hero-image {
   margin-bottom: 620px;
+
+
 }
 
 .hero-image .container {
   max-width: 1408px;
   text-align: center;
+
 }
 
 .heading {
@@ -61,12 +79,14 @@ body {
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
+
 }
 
 .hero-image p {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+
 }
 
 .intro {
@@ -160,6 +180,7 @@ body {
 
 .button {
   padding: 6px 20px;
+
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
@@ -167,12 +188,14 @@ body {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  margin-left: 350px;
 }
 
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
   color: #ffffff;
+
 }
 
 .page-footer a {
@@ -181,6 +204,7 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+
 }
 
 .footer-email {
